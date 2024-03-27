@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Data;
-using System.Net;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
-using MySqlX.XDevAPI;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace YP3
 {
