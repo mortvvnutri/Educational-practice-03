@@ -104,12 +104,6 @@
     <Compile Include="ClientRegistrationForm.Designer.cs">
       <DependentUpon>ClientRegistrationForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="clients.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="clients.Designer.cs">
-      <DependentUpon>clients.cs</DependentUpon>
-    </Compile>
     <Compile Include="DatabaseManager.cs" />
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
